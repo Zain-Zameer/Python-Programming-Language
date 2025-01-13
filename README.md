@@ -1,6 +1,6 @@
 # Python Concepts and Topics
 
-# Week 01 Monday
+# Week 01 Tuesday
 ### Basics
 - **Variables and Data Types**
 - **Basic Input/Output**
@@ -21,7 +21,7 @@
 ### Object-Oriented Programming
 - **Classes and Object-Oriented Programming (OOP)**
 
-# Week 01 Tuesday
+# Week 01 Wednesday
 ## Advanced Concepts
 - **Modules and Packages**
 - **List Comprehensions**
@@ -33,7 +33,7 @@
 - **Time and Date Manipulation**
 - **Basic Understanding of *args and **kwargs**
 
-# Week 01 Wednesday
+# Week 01 Thursday
 ## Additional Concepts
 - **Understanding Mutable vs Immutable Objects**
 - **Multithreading and Multiprocessing**
