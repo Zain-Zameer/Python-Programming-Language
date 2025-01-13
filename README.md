@@ -1,25 +1,27 @@
 # Python Concepts and Topics
 
-## Basics
+# Week 01 Monday
+### Basics
 - **Variables and Data Types**
 - **Basic Input/Output**
 - **Conditionals (if-else)**
 - **Loops (for, while)**
 
-## Functions and Expressions
+### Functions and Expressions
 - **Functions and Lambda Expressions**
 
-## Data Structures
+### Data Structures
 - **Lists, Tuples, and Sets**
 - **Dictionaries**
 
-## String and File Operations
+### String and File Operations
 - **String Manipulation**
 - **File Handling**
 
-## Object-Oriented Programming
+### Object-Oriented Programming
 - **Classes and Object-Oriented Programming (OOP)**
 
+# Week 01 Tuesday
 ## Advanced Concepts
 - **Modules and Packages**
 - **List Comprehensions**
@@ -29,9 +31,10 @@
 - **Context Managers (with statement)**
 - **Regular Expressions (regex)**
 - **Time and Date Manipulation**
-
-## Additional Concepts
 - **Basic Understanding of *args and **kwargs**
+
+# Week 01 Wednesday
+## Additional Concepts
 - **Understanding Mutable vs Immutable Objects**
 - **Multithreading and Multiprocessing**
 - **Understanding Python's GIL (Global Interpreter Lock)**
@@ -41,5 +44,6 @@
 - **Understanding Python Scope and Namespaces**
 - **Python's Built-in Functions (map, filter, zip, etc.)**
 
+# will cover up side by side
 ## Algorithms and Data Structures
 - **Data Structures and Algorithms**
